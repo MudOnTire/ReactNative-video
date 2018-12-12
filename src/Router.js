@@ -1,6 +1,5 @@
 import React,{Component} from 'react';
 import {Image, SafeAreaView, StatusBar, StyleSheet, Text, View} from 'react-native';
-import LinearGradient from 'react-native-linear-gradient';
 import {createDrawerNavigator, createMaterialTopTabNavigator, createStackNavigator} from 'react-navigation';
 import Icon from 'react-native-vector-icons/FontAwesome'
 import Suggest from './component/suggest/Suggest'
